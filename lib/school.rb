@@ -21,6 +21,4 @@ attr_reader :roster
     end
   end
 
-  # @roster[grade_levels] = student_names.sort
-
 end
